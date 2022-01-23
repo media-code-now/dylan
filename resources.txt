@@ -1,0 +1,48 @@
+Home Page: 
+**********
+Image Count: 25
+Icon Count: 11
+Pages: header-7.html - hero-14.html - preloader-1.html - popup-6.html - feature-7.html - property-9.html - services-11.html - about-15.html - to-top-2.html - footer-14.html - testimonial-20.html - team-12.html - blog-11.html - counter-7.html - cta-6.html
+
+Services Page: 
+**********
+Image Count: 8
+Icon Count: 7
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - services-9.html - cta-4.html - pricing-3.html - to-top-2.html - footer-14.html
+
+Service Details Page: 
+**********
+Image Count: 9
+Icon Count: 0
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - service-details-2.html - to-top-2.html - footer-14.html
+
+Blog Page: 
+**********
+Image Count: 21
+Icon Count: 0
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - blog-archive-2.html - to-top-2.html - footer-14.html
+
+Blog Details Page: 
+**********
+Image Count: 12
+Icon Count: 0
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - blog-details-5.html - to-top-2.html - footer-14.html
+
+Contact Us Page: 
+**********
+Image Count: 5
+Icon Count: 0
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - contact-form-4.html - infobox-12.html - to-top-2.html - footer-14.html
+
+Property Page: 
+**********
+Image Count: 9
+Icon Count: 0
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - property-3.html - to-top-2.html - footer-14.html
+
+Property Details Page: 
+**********
+Image Count: 20
+Icon Count: 2
+Pages: header-7.html - subheader-11.html - preloader-1.html - popup-6.html - property-details-1.html - to-top-2.html - footer-14.html
+

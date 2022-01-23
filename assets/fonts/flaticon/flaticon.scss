@@ -1,0 +1,101 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?e03cbbd2695b431fbb82c199da749d0b") format("truetype"),
+url("./flaticon.woff?e03cbbd2695b431fbb82c199da749d0b") format("woff"),
+url("./flaticon.woff2?e03cbbd2695b431fbb82c199da749d0b") format("woff2"),
+url("./flaticon.eot?e03cbbd2695b431fbb82c199da749d0b#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e03cbbd2695b431fbb82c199da749d0b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "real-estate": "\f101",
+    "real-estate-1": "\f102",
+    "real-estate-3": "\f103",
+    "real-estate-4": "\f104",
+    "real-estate-5": "\f105",
+    "apartment": "\f106",
+    "real-estate-6": "\f107",
+    "real-estate-7": "\f108",
+    "real-estate-8": "\f109",
+    "real-estate-9": "\f10a",
+    "real-estate-10": "\f10b",
+    "Property": "\f10c",
+    "property": "\f10d",
+    "rent": "\f10e",
+    "property-1": "\f10f",
+    "contract": "\f110",
+    "property-2": "\f111",
+    "property-3": "\f112",
+    "trophy": "\f113",
+);
+
+.flaticon-real-estate:before {
+    content: map-get($flaticon-map, "real-estate");
+}
+.flaticon-real-estate-1:before {
+    content: map-get($flaticon-map, "real-estate-1");
+}
+.flaticon-real-estate-3:before {
+    content: map-get($flaticon-map, "real-estate-3");
+}
+.flaticon-real-estate-4:before {
+    content: map-get($flaticon-map, "real-estate-4");
+}
+.flaticon-real-estate-5:before {
+    content: map-get($flaticon-map, "real-estate-5");
+}
+.flaticon-apartment:before {
+    content: map-get($flaticon-map, "apartment");
+}
+.flaticon-real-estate-6:before {
+    content: map-get($flaticon-map, "real-estate-6");
+}
+.flaticon-real-estate-7:before {
+    content: map-get($flaticon-map, "real-estate-7");
+}
+.flaticon-real-estate-8:before {
+    content: map-get($flaticon-map, "real-estate-8");
+}
+.flaticon-real-estate-9:before {
+    content: map-get($flaticon-map, "real-estate-9");
+}
+.flaticon-real-estate-10:before {
+    content: map-get($flaticon-map, "real-estate-10");
+}
+.flaticon-Property:before {
+    content: map-get($flaticon-map, "Property");
+}
+.flaticon-property:before {
+    content: map-get($flaticon-map, "property");
+}
+.flaticon-rent:before {
+    content: map-get($flaticon-map, "rent");
+}
+.flaticon-property-1:before {
+    content: map-get($flaticon-map, "property-1");
+}
+.flaticon-contract:before {
+    content: map-get($flaticon-map, "contract");
+}
+.flaticon-property-2:before {
+    content: map-get($flaticon-map, "property-2");
+}
+.flaticon-property-3:before {
+    content: map-get($flaticon-map, "property-3");
+}
+.flaticon-trophy:before {
+    content: map-get($flaticon-map, "trophy");
+}
