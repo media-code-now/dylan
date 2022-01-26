@@ -2057,7 +2057,7 @@ table img {
   margin-left: 10px;
 }
 
-.sigma_header-top-contacts .sigma_header-top-nav li a {
+.sigma_header-top-Contact .sigma_header-top-nav li a {
   display: block;
   font-size: 14px;
   width: 41px;
@@ -2072,11 +2072,11 @@ table img {
   margin-right: 0;
 }
 
-.sigma_header.style-1 .sigma_header-top-contacts .sigma_header-top-nav li a{
+.sigma_header.style-1 .sigma_header-top-Contact .sigma_header-top-nav li a{
    color: var(--thm-base);
 }
-.sigma_header-top-contacts .sigma_header-top-nav li a:hover,
-.sigma_header.style-1 .sigma_header-top-contacts .sigma_header-top-nav li a:hover {
+.sigma_header-top-Contact .sigma_header-top-nav li a:hover,
+.sigma_header.style-1 .sigma_header-top-Contact .sigma_header-top-nav li a:hover {
   background-color: var(--thm-base);
   color: #fff;
 }
@@ -2272,12 +2272,12 @@ table img {
 }
 
 /* Style 2 */
-.sigma_header.style-2 .sigma_header-top-contacts .sigma_header-top-nav li a{
+.sigma_header.style-2 .sigma_header-top-Contact .sigma_header-top-nav li a{
   background-color: transparent;
   border: 1px solid var(--thm-border);
   color: var(--thm-nav-text);
 }
-.sigma_header.style-2 .sigma_header-top-contacts .sigma_header-top-nav li a:hover{
+.sigma_header.style-2 .sigma_header-top-Contact .sigma_header-top-nav li a:hover{
   background-color: var(--thm-base);
   border-color: var(--thm-base);
   color: #fff;
@@ -2290,11 +2290,11 @@ table img {
 }
 
 
-.sigma_header-top .sigma_header-top-contacts ul li a{
+.sigma_header-top .sigma_header-top-Contact ul li a{
   color: var(--thm-nav-text);
 }
 
-.sigma_header-top .sigma_header-top-contacts ul li a:hover{
+.sigma_header-top .sigma_header-top-Contact ul li a:hover{
   color: var(--thm-base-hover);
 }
 .sigma_header-top.dark-bg{
@@ -2303,7 +2303,7 @@ table img {
 
 .sigma_header-top.dark-bg .sigma_header-top-links li a,
 .sigma_header-top.dark-bg .sigma_header-top-links li select,
-.sigma_header-top.dark-bg .sigma_header-top-contacts ul li a{
+.sigma_header-top.dark-bg .sigma_header-top-Contact ul li a{
   color: #fff;
 }
 
@@ -2339,14 +2339,14 @@ table img {
 }
 
 .sigma_header.style-3 .sigma_header-top .sigma_header-top-cta li a,
-.sigma_header.style-3 .sigma_header-top-contacts .sigma_header-top-nav li a{
+.sigma_header.style-3 .sigma_header-top-Contact .sigma_header-top-nav li a{
   background-color: rgba(255,255,255,.1);
   color: #fff;
 }
 .sigma_header.style-3 .sigma_header-top .sigma_header-top-cta li a:hover,
-.sigma_header.style-3 .sigma_header-top-contacts .sigma_header-top-nav li a:hover,
+.sigma_header.style-3 .sigma_header-top-Contact .sigma_header-top-nav li a:hover,
 .sigma_header.style-5 .sigma_header-top .sigma_header-top-cta li a:hover,
-.sigma_header.style-5 .sigma_header-top-contacts .sigma_header-top-nav li a:hover{
+.sigma_header.style-5 .sigma_header-top-Contact .sigma_header-top-nav li a:hover{
   background-color: var(--thm-base);
 }
 
@@ -2365,20 +2365,20 @@ table img {
   padding-right: 0;
 }
 
-.sigma_header.style-5 .sigma_header-top-contacts .sigma_header-top-nav li a,
-.sigma_header.style-6 .sigma_header-top-contacts .sigma_header-top-nav li a,
-.sigma_header.style-7 .sigma_header-top-contacts .sigma_header-top-nav li a,
-.sigma_header.style-8 .sigma_header-top-contacts .sigma_header-top-nav li a{
+.sigma_header.style-5 .sigma_header-top-Contact .sigma_header-top-nav li a,
+.sigma_header.style-6 .sigma_header-top-Contact .sigma_header-top-nav li a,
+.sigma_header.style-7 .sigma_header-top-Contact .sigma_header-top-nav li a,
+.sigma_header.style-8 .sigma_header-top-Contact .sigma_header-top-nav li a{
   background-color: transparent;
   width: auto;
   height: auto;
   font-size: 16px;
   font-weight: 400;
 }
-.sigma_header.style-5 .sigma_header-top-contacts .sigma_header-top-nav li a:hover,
-.sigma_header.style-6 .sigma_header-top-contacts .sigma_header-top-nav li a:hover,
-.sigma_header.style-7 .sigma_header-top-contacts .sigma_header-top-nav li a:hover,
-.sigma_header.style-8 .sigma_header-top-contacts .sigma_header-top-nav li a:hover{
+.sigma_header.style-5 .sigma_header-top-Contact .sigma_header-top-nav li a:hover,
+.sigma_header.style-6 .sigma_header-top-Contact .sigma_header-top-nav li a:hover,
+.sigma_header.style-7 .sigma_header-top-Contact .sigma_header-top-nav li a:hover,
+.sigma_header.style-8 .sigma_header-top-Contact .sigma_header-top-nav li a:hover{
   background-color: transparent;
   color: var(--thm-base-hover);
 }
@@ -2552,7 +2552,7 @@ table img {
 
 .sigma_header.style-7 .sigma_header-top-links li a,
 .sigma_header.style-7 .sigma_header-top-links li select,
-.sigma_header.style-7 .sigma_header-top-contacts .sigma_header-top-nav li a{
+.sigma_header.style-7 .sigma_header-top-Contact .sigma_header-top-nav li a{
   color: #fff;
 }
 
