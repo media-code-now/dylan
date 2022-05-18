@@ -58,7 +58,14 @@
     opacity: 0;
   }
 }
-
+.trusted img {
+  height: 200px;
+  width: auto;
+}
+.trusted2 img {
+  height: 200px;
+  width: auto;
+}
 
 
 
